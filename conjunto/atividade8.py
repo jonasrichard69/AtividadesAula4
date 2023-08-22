@@ -1,0 +1,6 @@
+conjunto1 = set(range(1, 21))
+conjunto2 = set(range(2, 11, 2))
+diferenca = conjunto1.difference(conjunto2)
+print(conjunto1)
+print(conjunto2)
+print('A diferença entre os dois conjuntos é:', diferenca)

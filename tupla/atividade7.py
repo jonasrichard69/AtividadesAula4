@@ -1,0 +1,5 @@
+temperaturas = (25, 27, 24, 26, 28, 23, 22)
+temperatura_maxima = max(temperaturas)
+temperatura_minima = min(temperaturas)
+print('A temperatura máxima da semana foi:', temperatura_maxima)
+print('A temperatura mínima da semana foi:', temperatura_minima)
